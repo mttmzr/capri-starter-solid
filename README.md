@@ -25,3 +25,5 @@ npm init capri my-capri-site -- -e mttmzr/capri-starter-solid
 - [Capri on GitHub](https://github.com/capri-js/capri)
 - [SolidJS](https://www.solidjs.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+This template is also available with React: [mttmzr/capri-starter-react](https://github.com/mttmzr/capri-starter-react)
